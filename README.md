@@ -17,6 +17,9 @@ __Data Cleaning__
 
 __Exploratory Data Analysis__  
 Conducted univariate and bivariate analyses across data.
+!(correlation table)[../eda_img1.png]
+!(ocean_proximity vs median_house_value)[../eda_img2.png]
+!(spatial analysis on median_house_value)[../eda_img3.png]
 
 __Model Building__  
 In the end, our model demonstrated _R<sup>2</sup>_ = 0.648. While this might not be the most optimal model for our data, it was a great introduction to learning linear regression.
